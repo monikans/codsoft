@@ -34,3 +34,23 @@ int main() {
 
     return 0;
 }
+
+// OUTPUT 
+/*
+Welcome to the Number Guessing Game!
+I have generated a random number between 1 and 100.
+Please enter your guess: 52
+Your guess is too high. Try again!
+Please enter your guess: 49
+Your guess is too high. Try again!
+Please enter your guess: 25
+Your guess is too high. Try again!
+Please enter your guess: 15
+Your guess is too low. Try again!
+Please enter your guess: 17
+Your guess is too low. Try again!
+Please enter your guess: 20
+Your guess is too low. Try again!
+Please enter your guess: 24
+Congratulations! You've guessed the correct number: 24
+*/
